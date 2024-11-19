@@ -1,4 +1,4 @@
-Features
+Features 
 Enhanced Visuals: A starry background with a dynamic grid layout.
 Two Players: Play locally with a friend.
 Custom Player Names: Players can input their names, displayed alongside scores.
